@@ -1,0 +1,23 @@
+.h1{
+    text-align: center;
+}
+
+#B1{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+#B2{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+p{
+    color: salmon;
+    font-weight: bolder;
+    font-size: 40px;
+}
